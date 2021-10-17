@@ -1,0 +1,10 @@
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111111A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111112A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111113A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111114A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111115A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111116A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111117A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111118A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111119A');
+INSERT INTO Cliente (codigoCliente, dni) VALUES (null, '11111110A');
