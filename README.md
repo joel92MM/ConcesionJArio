@@ -23,7 +23,7 @@
 - <p align="justify">Contiene las características que tiene que tener nuestro equipo informático, así como los requisitos que se requiere para la aplicación, dispone de los enlaces respectivos para la descarga del software requerido.</p>
 
 #### 
-<img src="https://user-images.githubusercontent.com/73592097/118838251-70755700-b8bd-11eb-87f7-727cdde73437.png" alt="testing" width="30px" height="30px">  [Pruebas Unitarias](https://github.com/anfari/ConcesionJArio/wiki/Pruebas-Unitarias)
+<img src="https://user-images.githubusercontent.com/73592097/118838251-70755700-b8bd-11eb-87f7-727cdde73437.png" alt="testing" width="30px" height="30px">      [Pruebas Unitarias](https://github.com/joel92MM/ConcesionJArio/wiki/Pruebas-Unitarias-de-ConcesionJario)
 
 <hr>
 
