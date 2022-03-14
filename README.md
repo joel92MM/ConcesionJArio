@@ -8,7 +8,7 @@
 <p align="align">Aquí es donde vamos a especificar, cada una de las cosas que hace nuestro programa, si pulsamos en cada enlace nos dirige a cada página. Nuestro indice es el siguiente: </p>
 <br>
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118827449-49feee00-b8b4-11eb-8143-a8c9dac6fe63.png" alt="logo usuario" height="30px" width="30px" > [Manual de usuario](https://github.com/anfari/ConcesionJArio/wiki/Manual-de-usuario)
+#### <img src="https://user-images.githubusercontent.com/73592097/118827449-49feee00-b8b4-11eb-8143-a8c9dac6fe63.png" alt="logo usuario" height="30px" width="30px" > [Manual de usuario](https://github.com/joel92MM/ConcesionJArio/wiki/Manual-de-usuario-del-ConsesionJArio)
 
 <hr> 
 
@@ -16,7 +16,7 @@
 
 
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118827092-f68ca000-b8b3-11eb-820b-29233374c9dd.png" alt="logo instalacion" height="30px" width="30px">  [Manual de instalación](https://github.com/anfari/ConcesionJArio/wiki/Manual-de-instalaci%C3%B3n) 
+#### <img src="https://user-images.githubusercontent.com/73592097/118827092-f68ca000-b8b3-11eb-820b-29233374c9dd.png" alt="logo instalacion" height="30px" width="30px">  [Manual de instalación](https://github.com/joel92MM/ConcesionJArio/wiki/Manual-de-instalaci%C3%B3n) 
 
 <hr>
 
@@ -30,28 +30,28 @@
 - <p align="justify">Contiene la cobertura de código que se a testeado, indicando que los métodos y funciones, se verifican correctamente.</p>
 
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118895699-91aa6780-b8fe-11eb-9542-cb5e1bc6d25d.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de actividad](https://github.com/anfari/ConcesionJArio/wiki/Diagrama-de-Actividad)
+#### <img src="https://user-images.githubusercontent.com/73592097/118895699-91aa6780-b8fe-11eb-9542-cb5e1bc6d25d.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de actividad](https://github.com/joel92MM/ConcesionJArio/wiki/Diagrama-de-Actividad)
 
 <hr>
 
 - <p align="justify">Representación gráfica de el algoritmo o proceso de nuestra aplicación, mostrando el flujo de trabajo desde el punto de inicio hasta el punto final detallando muchas de las rutas de decisiones que existen en el progreso de eventos contenidos en la actividad. </p>
 
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118895536-47c18180-b8fe-11eb-9414-120195f46c32.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de casos de uso](https://github.com/anfari/ConcesionJArio/wiki/Diagrama-de-Caso-de-Uso)
+#### <img src="https://user-images.githubusercontent.com/73592097/118895536-47c18180-b8fe-11eb-9414-120195f46c32.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de casos de uso](https://github.com/joel92MM/ConcesionJArio/wiki/Diagrama-de-Caso-de-Uso)
 
 <hr>
 
 - <p align="justify">Representacion de la comunicación y el comportamiento de un sistema mediante su interacción con los usuarios y/u otros sistemas.</p>
 
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118895433-147ef280-b8fe-11eb-8d21-5300c9cd5aeb.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de estado](https://github.com/anfari/ConcesionJArio/wiki/Diagrama-de-Estado)
+#### <img src="https://user-images.githubusercontent.com/73592097/118895433-147ef280-b8fe-11eb-8d21-5300c9cd5aeb.png" alt="logo entidad relacion" width="30px" height="30px">  [Diagramas de estado](https://github.com/joel92MM/ConcesionJArio/wiki/Diagrama-de-Estado)
 
 <hr>
 
 - <p align="justify">Representación de la secuencia de los estados por los que pasa cada objeto de la aplicación ConcesionJario. </p>
 
 
-#### <img src="https://user-images.githubusercontent.com/73592097/118860293-213a2100-b8d3-11eb-94d0-5f28ca0d8dd6.png" alt="logo entidad relacion" width="30px" height="30px"> [Diagrama de entidad relacion](https://github.com/anfari/ConcesionJArio/wiki/Diagrama-Entidad-Relacion)
+#### <img src="https://user-images.githubusercontent.com/73592097/118860293-213a2100-b8d3-11eb-94d0-5f28ca0d8dd6.png" alt="logo entidad relacion" width="30px" height="30px"> [Diagrama de entidad relacion](https://github.com/joel92MM/ConcesionJArio/wiki/Diagrama-Entidad-Relacion)
 
 <hr>
 
